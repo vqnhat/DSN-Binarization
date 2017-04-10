@@ -9,12 +9,12 @@ We propose a novel supervised binarization method by learning multi-scale deep s
 
 If you find this source code useful, please consider citing:
 
-@article{dai16rfcn,
-    Author = {Quang-Nhat Vo, Soo-Hyung Kim, Hyung-Jeong Yang, Guee-sang Lee},
-    Title = {A Supervised Binarization Method for Degraded Document Images based on Convolutional Neural Network},
-    Journal = {},
-    Year = {2017}
-}
+    @article{nhat,
+        Author = {Quang-Nhat Vo, Soo-Hyung Kim, Hyung-Jeong Yang, Guee-Sang Lee},
+        Title = {A Supervised Binarization Method for Degraded Document Images based on Convolutional Neural Network},
+        Journal = {},
+        Year = {2017}
+    }
 
 ### Installing
 
