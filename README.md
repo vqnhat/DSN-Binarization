@@ -11,6 +11,10 @@ We propose a novel supervised binarization method by learning multi-scale deep s
 2. Copy our created dataset to the root directory of the DSN library: https://drive.google.com/open?id=0B5q_fE0K48IVaFlTcENZMGZmZ28
 3. Copy the training and testing source code to \examples directory of the DSN library: https://drive.google.com/open?id=0B5q_fE0K48IVWDQ3YVF2ODUwZ28
 
+### Requirement: hardware
+
+GPU: GTX 980Ti, GTX 1070.
+
 ### Training
 
 To reproduce our results:
