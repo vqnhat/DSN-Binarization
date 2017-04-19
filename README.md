@@ -11,7 +11,7 @@ If you find this source code useful, please consider citing:
 
     @article{nhat,
         Author = {Quang-Nhat Vo, Soo-Hyung Kim, Hyung-Jeong Yang, Guee-Sang Lee},
-        Title = {A Supervised Binarization Method for Degraded Document Images based on Convolutional Neural Network},
+        Title = {Binarization of Degraded Document Images based on Hierarchical Deep Supervised Network},
         Journal = {},
         Year = {2017}
     }
