@@ -19,8 +19,8 @@ If you find this source code useful, please consider citing:
 ### Installing
 
 1. Install the modified Caffe for pixel prediction with DSN: https://github.com/s9xie/hed
-2. Copy our created dataset to the root directory of the DSN library: https://drive.google.com/open?id=0B5q_fE0K48IVaFlTcENZMGZmZ28
-3. Copy the training and testing source code to \examples directory of the DSN library: https://drive.google.com/open?id=0B5q_fE0K48IVWDQ3YVF2ODUwZ28
+2. Copy our created dataset to the root directory of the DSN library: https://drive.google.com/open?id=0B5q_fE0K48IVN0VWcy01U0pGUVU
+3. Copy the training and testing source code to \examples directory of the DSN library: https://drive.google.com/open?id=0B5q_fE0K48IVOWlDSG9kRWhrVEU
 
 ### Requirement: hardware
 
