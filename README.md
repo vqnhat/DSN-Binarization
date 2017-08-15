@@ -31,6 +31,7 @@ The pre-trained DSNs models are provided in conv_3, conv_4, and conv_5 folders. 
 $ python multiscale_DSN.py arg1 arg2 
 
 arg1: Input gray scale or color image
+
 arg2: Resulting binary image
 
 
