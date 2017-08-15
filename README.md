@@ -28,6 +28,11 @@ To reproduce our results:
 
 The pre-trained DSNs models are provided in conv_3, conv_4, and conv_5 folders. Run the python code multiscale_DSN.py for binarizing the document images. These pre-trained models are tested with H-DIBCO 2016 and DIBCO 2011 datasets.
 
+$ python multiscale_DSN.py arg1 arg2 
+arg1: Input gray scale or color image 
+arg2: Resulting binary image
+
+
 ### Acknowledgement
 
 This code is based on Caffe and the implementation of DSN.
