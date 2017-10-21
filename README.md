@@ -43,9 +43,9 @@ This code is based on Caffe and the implementation of DSN.
 
 If you are using the code/model/data provided here in a publication, please cite our paper:
 
-@proceedings{vqnhat,
-  author = {"Quang Nhat, Vo,  Soo Hyung, Kim,  Hyung Jeong, Yang, Gueesang, Lee"}, 
-  Title = {Binarization of degraded document images based on hierarchical deep supervised network},
-  Booktitle = "Pattern Recognition", 
-  Year  = {2017},
-}
+    @proceedings{vqnhat,
+      Author = {Quang Nhat, Vo,  Soo Hyung, Kim,  Hyung Jeong, Yang, and Gueesang, Lee},
+      Title = {Binarization of degraded document images based on hierarchical deep supervised network},
+      Year  = {2017},
+      Booktitle = {Pattern Recognition}
+    }
