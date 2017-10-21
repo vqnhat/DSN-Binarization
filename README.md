@@ -38,3 +38,14 @@ arg2: Resulting binary image
 ### Acknowledgement
 
 This code is based on Caffe and the implementation of DSN.
+
+### Citations
+
+If you are using the code/model/data provided here in a publication, please cite our paper:
+
+@InProceedings{xie15hed,
+  author = {"Quang Nhat, Vo,  Soo Hyung, Kim,  Hyung Jeong, Yang, Gueesang, Lee"},
+  Title = {Binarization of degraded document images based on hierarchical deep supervised network},
+  Booktitle = "Pattern Recognition",
+  Year  = {2017},
+}
