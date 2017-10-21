@@ -54,3 +54,18 @@ If you are using the code/model/data provided here in a publication, please cite
   Year  = {2017},
   
 }
+
+@inproceedings{salam,
+  author       = {Salam, Abdus},
+  editor       = {Svartholm, Nils},
+  title        = {Weak and Electromagnetic Interactions},
+  date         = {1968},
+  booktitle    = {Elementary particle theory},
+  booksubtitle = {Relativistic groups and analyticity},
+  booktitleaddon= {Proceedings of the Eighth Nobel Symposium},
+  eventdate    = {1968-05-19/1968-05-25},
+  venue        = {Aspen{\"a}sgarden, Lerum},
+  publisher    = {Almquist \& Wiksell},
+  location     = {Stockholm},
+  pages        = {367-377},
+}
