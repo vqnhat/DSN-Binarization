@@ -8,8 +8,8 @@ We propose a novel supervised binarization method by learning multi-scale deep s
 ### Installing
 
 1. Install the modified Caffe for pixel prediction with DSN: https://github.com/s9xie/hed
-2. Copy our created dataset to the root directory of the DSN library: https://drive.google.com/open?id=0B5q_fE0K48IVN0VWcy01U0pGUVU
-3. Copy the training and testing source code to \examples directory of the DSN library: https://drive.google.com/open?id=0B5q_fE0K48IVOWlDSG9kRWhrVEU
+2. Copy our created dataset to the root directory of the DSN library: https://drive.google.com/file/d/0B5q_fE0K48IVN0VWcy01U0pGUVU/view?usp=sharing&resourcekey=0-7xWcr8Vw873WmS9oljAXiA
+3. Copy the training and testing source code to \examples directory of the DSN library: https://drive.google.com/file/d/0B5q_fE0K48IVOWlDSG9kRWhrVEU/view?usp=sharing&resourcekey=0-PK3J2pWHMZKbyt8dwoEXQw
 
 ### Requirement: hardware
 
